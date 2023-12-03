@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Eudaimonia Scribe</title>
-    <link>https://pauldchuang.github.io/</link>
-    <description>Recent content on Eudaimonia Scribe</description>
+    <title>Posts on Eudaimonia Scribe</title>
+    <link>https://pauldchuang.github.io/post/</link>
+    <description>Recent content in Posts on Eudaimonia Scribe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Dec 2023 20:59:22 +0800</lastBuildDate><atom:link href="https://pauldchuang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Dec 2023 20:59:22 +0800</lastBuildDate><atom:link href="https://pauldchuang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
       <link>https://pauldchuang.github.io/post/hello-hugo/</link>
